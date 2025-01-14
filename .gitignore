@@ -1,0 +1,6 @@
+.env
+.vscode/*
+Modbus-Logger/.vscode/*
+Modbus-Logger/build/*
+Modbus-Logger/managed_components/*
+Modbus-Logger-Arduino/.vscode/*
