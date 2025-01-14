@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Load environment variables from .env file
-if [ -f ../Modbus-Logger-Arduino/.env ]; then
-    export $(cat ../Modbus-Logger-Arduino/.env | xargs)
+if [ -f ../SDM120-Logger-Arduino/.env ]; then
+    export $(cat ../SDM120-Logger-Arduino/.env | xargs)
 else
     echo ".env file not found. Please create it and try again."
     exit 1

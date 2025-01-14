@@ -1,7 +1,7 @@
-# Modbus Logger
+# SDM120-Logger
 
 ## Details
-This Modbus (RS485) Logger is Intended to run on an ESP32 based MCU and collect data from Eastron 120M Power Meters. The Data then gets sent to an RPI Zero where it gets further processed/stored
+This Logger is Intended to run on an ESP32 based MCU and collect data from Eastron 120M Power Meters via Modbus (RS485). The Data then gets sent to an RPI Zero where it gets further processed/stored
 
 ## Hardware
 - Norvi

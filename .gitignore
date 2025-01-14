@@ -1,6 +1,6 @@
 .env
 .vscode/*
-Modbus-Logger/.vscode/*
-Modbus-Logger/build/*
-Modbus-Logger/managed_components/*
-Modbus-Logger-Arduino/.vscode/*
+SDM120-Logger/.vscode/*
+SDM120-Logger/build/*
+SDM120-Logger/managed_components/*
+SDM120-Logger-Arduino/.vscode/*
