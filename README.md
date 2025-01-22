@@ -5,7 +5,7 @@ This Logger is Intended to run on an ESP32 based MCU and collect data from Eastr
 
 ## Hardware
 - Norvi
-- RPI Zero
+- RPI 3b
 
 ## Requirements
 - ESP-IDF
